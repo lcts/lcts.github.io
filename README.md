@@ -1,2 +1,2 @@
 # lcts.github.io
-github user page
+github user page for lcts
